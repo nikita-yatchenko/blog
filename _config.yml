@@ -6,8 +6,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: ML and AI Journey
-description: This blog is intended to be a collection of projects, insights, and notes about my jounrey to master machine learning. I hope this can be of help for you too!
+title: Machine Learning and Artificial Intelligence Journey
+description: This blog post is a way to record my ML and AI journey. It includes longer technical writeups of the projects, as well as shorter but more theoretical posts outlining my understnading or intuition of some concepts. I hope it can be helpful to people who are also on a similar journey!
 github_username: nikita-yatchenko
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "blog"
